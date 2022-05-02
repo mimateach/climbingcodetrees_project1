@@ -1,0 +1,239 @@
+body {
+	background-color: #404459;
+	max-width: 100%;
+	margin: 0;
+	font-family: 'Source Sans Pro', sans-serif;"
+}
+
+header { 
+padding: 50px; 
+background-image: url(./media/watercolor-grande.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+div.header {
+	background-color: whitesmoke;
+	opacity: 65%;
+	margin: auto;
+	width: 500px;
+	height: 300px;
+}
+
+
+.header {
+	
+	width: 400px;
+	margin: auto;
+	padding: 30px;
+}
+h1 {
+	font-family: ;
+	font-size: 80px;
+	text-align: center;
+	font-family: 'Water Brush', cursive;
+
+}
+
+h3 {
+	font-family: ;
+	font-size: ;
+	text-align: center;
+}
+
+
+.introduction {
+}
+
+h5 {
+	font-family: ;
+	font-size: ;
+	text-align: center;
+}
+
+
+/*neumorphism.io 
+código de color claro #b1b9e2
+
+código con color oscuro:  ;
+
+border-radius: 50px;
+background: #404459;
+box-shadow: inset 20px 20px 60px #2f3242,
+inset -20px -20px 60px #515670
+*/
+
+.categories div {
+	width: 380px;
+	height: 220px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	/*background-clip: border-box;
+	border-radius: 10px;*/
+	hover
+}
+
+
+.books div {
+	width: 300px;
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+
+
+
+footer {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+
+.categories {
+	width:  100%;
+	display:  flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap:  70px;
+	margin-top: 50px;
+	margin-bottom: 200px;
+}
+
+
+.box-cat-1 { 
+background-image: url(./media/art/hands.jpg); 
+
+}
+.box-cat-1 p {
+	width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+.box-cat-2 {
+	background-image: url(./media/writing/work.jpg);
+}
+.box-cat-2 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+.box-cat-3 {
+	background-image: url(./media/music/violin.jpg);
+}
+.box-cat-3 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+.box-cat-4 {
+	background-image: url(./media/handcrafts/tools.jpg);
+}
+.box-cat-4 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+
+.box-cat-5 {
+	background-image: url(./media/photography/camera.jpg);
+}
+
+.box-cat-5 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+
+
+.box-cat-6 {
+	background-image: url(media/graphic_design/trees.jpg);
+}
+.box-cat-6 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+
+
+section.books {
+	width:  100%;
+	display:  flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap:  70px;
+	margin-top: 200px;
+	margin-bottom: 50px;
+
+}
+
+
+.introduction {
+	margin: 50px;
+}
+
+.box-book-1 {
+		background-image: url(./media/books/evanescente.jpg);
+}
+.box-book-1 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+.box-book-2 {
+		background-image: url(./media/books/sembrador.jpg);
+}
+
+.box-book-2 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+.box-book-3 {
+background-image: url(./media/books/cauterio.jpg);
+}
+
+.box-book-3 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+.box-book-4 {
+		background-image: url(./media/books/devoradoras.jpg);
+}
+
+.box-book-4 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
+.box-book-5 {
+	background-image: url(./media/books/trio.jpg);
+}
+.box-book-5 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+	
+}
+
+.box-book-6 { 
+		background-image: url(./media/books/panza-burro.jpg);
+ }
+.box-book-6 p {
+	max-width: 200px;
+	text-align: justify;	
+	margin: auto;
+}
+
